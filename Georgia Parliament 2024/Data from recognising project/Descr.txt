@@ -1,0 +1,9 @@
+We tried to download and recognise images of the PECs' protocols. 
+There were a lot of problems. 
+The dirty column shows problematic data.
+The rest is ok. 
+Ivan Shukshin:
+Так, вот файл на 3101 строку. Но из них 60 помечены "грязными" из-за неточных данных и невыполнения простейших контрольных соотношений для шапки протокола. Если строить что-то, лучше без этих стрёмных.
+20:00, 
+1730044907018
+27.10.2024
